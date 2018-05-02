@@ -17,10 +17,11 @@ Some of the principles that I plan to cover include:
 There are so many design patterns out there, that I have no intention of covering them all but hope to refresh my memory on a few of the more common/commonly used Design Patterns:
 
 * Singleton Pattern  
-* Factory method pattern
+* Factory Method pattern
 * Observer Pattern
+* Dependency Injection Pattern
 * Strategy Pattern
-* Builder pattern
+* Builder Pattern
 * Template Method Pattern
   
 And yes, while I am at it I may add some unit testing just to make it a bit more complete.   
